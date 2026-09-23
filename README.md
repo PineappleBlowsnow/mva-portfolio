@@ -12,6 +12,7 @@ Selected MVA projects in **model training, evaluation and optimization**, with a
 | [Consistency Models and noisy inverse problems](https://github.com/PineappleBlowsnow/Consistency-Model-vs-Diffusion-Posterior-Sampling-for-Noisy-Inverse-Problem) | A study of consistency models, diffusion methods and noisy inverse problems, with the course report and experimental code. | JIN Ying and HAMMANI Ianis |
 | [Mixture Density Networks and GatedDual](https://github.com/PineappleBlowsnow/mdn-gated-dual) | Conditional density estimation and a gated two-expert comparison. The report credits Ying with experiments 2–4, GatedDual implementation and analysis. | Ying JIN and Gloire LINVANI |
 | [Static mean-field games](https://github.com/PineappleBlowsnow/static-mean-field-games) | TRPA/annealed-TRPA comparisons, population scaling and exploratory bilevel intervention in synthetic environments; code and a joint course research report. | Jin Ying and Zhao Yutai |
+| [Molecular Graph Captioning — ALTeGraD multimodal challenge](https://github.com/PineappleBlowsnow/MVA-Graph2text-kaggle-challenge) | Feature-aware GINE/BERT contrastive retrieval and graph-conditioned DistilGPT2, BioGPT/LoRA and BioT5/LoRA experiments. Separate from the ALTeGraD practicals; data and weights excluded. | Ying Jin's coursework portfolio; course scaffold credited and contribution-record limits documented |
 
 ## One concrete trade-off
 
